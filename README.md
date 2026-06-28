@@ -1,12 +1,17 @@
-Design responsive Amazon clone built using only HTML & CSS.
-## Technologies Used
+# Amazon Clone 🛒
+Responsive Amazon clone built using HTML and CSS.
+
+## 🚀 Live Demo
+
+
+## 🛠️ Technologies
 - HTML5
 - CSS3
-- Font Awesome (icons)
-- Flexbox
 
-### Live Demo [Click here to view live demo](https://mansi-amazon-clone.netlify.app/)
+## 📱 Features
+- Fully responsive layout
+- Amazon-style UI
+- Header, products, footer sections
 
-
-## Author
+## 👩‍💻 Author
 Mansi Agrawal
