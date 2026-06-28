@@ -2,7 +2,7 @@
 Responsive Amazon clone built using HTML and CSS.
 
 ## 🚀 Live Demo
-
+ [Click here](https://amazon-clone-responsive.netlify.app)
 
 ## 🛠️ Technologies
 - HTML5
